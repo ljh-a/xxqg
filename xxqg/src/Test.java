@@ -1,7 +1,7 @@
 
 
 public class Test {
-//比较2
+//比较3
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("学习强国");
