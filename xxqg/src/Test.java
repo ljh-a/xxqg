@@ -1,4 +1,4 @@
-package xxqg;
+
 
 public class Test {
 //比较2
