@@ -4,6 +4,7 @@ public class Test {
 		System.out.println("学习强国");
 		System.out.println("wzz");
 		System.out.println("上推");
+		//嘿嘿嘿
 
 	}
 
