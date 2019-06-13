@@ -7,6 +7,7 @@ public class Test {
 //		System.out.println("上推");
 		System.out.println("郭浩文");
 		System.out.println("上推");
+		System.out.println("比较");
 	}
 
 }
