@@ -4,7 +4,7 @@ public class Test {
 		System.out.println("学习强国");
 		System.out.println("蔡泽宁");
 		System.out.println("上推");
-		
+		System.out.println("比较");
 		
 //		System.out.println("林建翰");
 //		System.out.println("发布项目");
